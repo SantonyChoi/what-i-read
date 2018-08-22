@@ -10,3 +10,6 @@ https://multicoin.capital/2018/07/10/the-web3-stack/
 
 https://hbswk.hbs.edu/archive/making-the-decision-to-decentralize
 : Suggests the sound way to get adavantages of decentralization.
+
+https://thecontrol.co/an-overview-of-privacy-in-cryptocurrencies-893dc078d0d7
+: Introduces projects dedicated to privacy.
