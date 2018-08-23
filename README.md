@@ -13,3 +13,6 @@ https://hbswk.hbs.edu/archive/making-the-decision-to-decentralize
 
 https://thecontrol.co/an-overview-of-privacy-in-cryptocurrencies-893dc078d0d7
 : Introduces projects dedicated to privacy.
+
+https://blog.keep.network/zero-knowledge-proofs-zcash-and-ethereum-f6d89fa7cba8
+: Knoledge about Zero Knowledge Proof.
