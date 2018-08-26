@@ -19,3 +19,6 @@ https://blog.keep.network/zero-knowledge-proofs-zcash-and-ethereum-f6d89fa7cba8
 
 https://tools.ietf.org/html/rfc791#section-1
 : RFC791 - Internet Protocol
+
+https://bitcoin.org/bitcoin.pdf
+: Bitcoin the Original Paper
