@@ -22,3 +22,6 @@ https://tools.ietf.org/html/rfc791#section-1
 
 https://bitcoin.org/bitcoin.pdf
 : Bitcoin the Original Paper
+
+http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html
+: Bitcoin the hard way: Using the raw Bitcoin Protocol
