@@ -25,3 +25,6 @@ https://bitcoin.org/bitcoin.pdf
 
 http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html
 : Bitcoin the hard way: Using the raw Bitcoin Protocol
+
+https://www.soroushjp.com/2014/12/20/bitcoin-multisig-the-hard-way-understanding-raw-multisignature-bitcoin-transactions/#appendix
+: Bitcoin multisig the hard way: Understanding raw P2SH multisig transactions
