@@ -28,3 +28,6 @@ http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html
 
 https://www.soroushjp.com/2014/12/20/bitcoin-multisig-the-hard-way-understanding-raw-multisignature-bitcoin-transactions/#appendix
 : Bitcoin multisig the hard way: Understanding raw P2SH multisig transactions
+
+https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf
+: NIST report about general properties of Blockchain.
