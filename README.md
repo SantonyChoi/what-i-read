@@ -31,3 +31,8 @@ https://www.soroushjp.com/2014/12/20/bitcoin-multisig-the-hard-way-understanding
 
 https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf
 : NIST report about general properties of Blockchain.
+
+## Programming
+
+http://wiki.c2.com/?PrematureOptimization
+: Practical approach to break a problem into a tractable ways.
