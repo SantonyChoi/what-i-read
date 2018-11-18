@@ -36,3 +36,6 @@ https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf
 
 http://wiki.c2.com/?PrematureOptimization
 : Practical approach to break a problem into a tractable ways.
+
+https://nvie.com/posts/a-successful-git-branching-model/
+: Git-flow branching model
