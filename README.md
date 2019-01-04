@@ -39,3 +39,8 @@ http://wiki.c2.com/?PrematureOptimization
 
 https://nvie.com/posts/a-successful-git-branching-model/
 : Git-flow branching model
+
+## Cryptography
+
+https://www.btcethereum.com/blog/2018/08/13/schnorr-signatures-what-when-why
+: Simple description of "what when why schnorr"
