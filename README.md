@@ -44,3 +44,8 @@ https://nvie.com/posts/a-successful-git-branching-model/
 
 https://www.btcethereum.com/blog/2018/08/13/schnorr-signatures-what-when-why
 : Simple description of "what when why schnorr"
+
+## System Design
+
+http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html
+: Lessons learned from scaling Uber
