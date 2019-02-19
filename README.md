@@ -49,3 +49,6 @@ https://www.btcethereum.com/blog/2018/08/13/schnorr-signatures-what-when-why
 
 http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html
 : Lessons learned from scaling Uber
+
+https://github.com/theanalyst/awesome-distributed-systems
+: Awesome distributed systems
